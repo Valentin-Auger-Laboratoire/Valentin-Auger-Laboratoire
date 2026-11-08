@@ -42,10 +42,10 @@ Les 46 projets sont présentés sur mon **[portfolio](https://valentin-auger-lab
 
 ### Outils
 
-**Réseaux** : Cisco, VyOS, GNS3, OSPF, VLAN, Wireshark
-**Code** : Python, JavaScript, PHP, MySQL, Flutter, MATLAB
-**Électronique** : Arduino, ESP32, capteurs, oscilloscope
-**Mécanique** : SolidWorks, Fusion 360, impression 3D, découpe laser
+- **Réseaux** : Cisco, VyOS, GNS3, OSPF, VLAN, Wireshark
+- **Code** : Python, JavaScript, PHP, MySQL, Flutter, MATLAB
+- **Électronique** : Arduino, ESP32, capteurs, oscilloscope
+- **Mécanique** : SolidWorks, Fusion 360, impression 3D, découpe laser
 
 ---
 
